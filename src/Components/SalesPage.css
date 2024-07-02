@@ -1,0 +1,21 @@
+.custom-chosen-select {
+    width: 150px; /* Adjust the width as needed */
+    padding: 5px; /* Adjust the padding as needed */
+    font-size: 14px; /* Adjust the font size as needed */
+  }
+  .checkbox-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* Style for the larger checkbox */
+  .larger-checkbox {
+    width: 20px; /* Increase the width */
+    height: 20px; /* Increase the height */
+  }
+
+  /* Style for the label associated with the checkbox */
+  .checkbox-label {
+    font-size: 16px; /* Increase the label's font size */
+  }
